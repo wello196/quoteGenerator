@@ -7,9 +7,10 @@ A minimal and responsive web application that fetches random inspirational quote
 ## 🚀 Live Demo
 
 Interact with the live application directly in your browser:
-*   **Link:** <a href="[https://quote-generator-zeta-dusky.vercel.app/]" target="_blank" rel="noopener noreferrer">Click here to open in a new tab</a>
+*   **Link:** <a href="https://quote-generator-zeta-dusky.vercel.app/" target="_blank" rel="noopener noreferrer">Click here to open in a new tab</a>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
